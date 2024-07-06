@@ -64,7 +64,12 @@
     "alreadyHaveAnAccount": "Du hast bereits ein Konto?",
     "logIn": "Anmeldung",
     "generalError": "Etwas ist schiefgelaufen. Bitte versuche es später noch einmal",
-    "limitRateError": "Aus Sicherheitsgründen kannst du nur alle 60 Sekunden einen Authentifizierungslink anfordern"
+    "limitRateError": "Aus Sicherheitsgründen kannst du nur alle 60 Sekunden einen Authentifizierungslink anfordern",
+    "LogInWithGoogle": "Einloggen mit Google",
+    "LogInWithGithub": "Einloggen mit GitHub",
+    "LogInWithDiscord": "Einloggen mit Discord",
+    "loginAsGuestButtonText": "als Gast einloggen ",
+    "logInWithMagicLink": "Mit Magic Link einloggen"
   },
   "workspace": {
     "chooseWorkspace": "Arbeitsbereich wählen",
@@ -338,7 +343,11 @@
     "signInDiscord": "Mit einem Discord Benutzerkonto anmelden",
     "more": "Mehr",
     "create": "Erstellen",
-    "close": "Schließen"
+    "close": "Schließen",
+    "tryAGain": "Nochmal versuchen",
+    "Done": "Fertig",
+    "Cancel": "Abbrechen",
+    "OK": "OK"
   },
   "label": {
     "welcome": "Willkommen!",
@@ -836,7 +845,9 @@
       "importAppFlowyDataDescription": "Daten von einem externen @:appName Ordner kopieren und in den aktuellen @:appName Datenordner importieren.",
       "importSuccess": "Der @:appName Dateienordner wurde erfolgreich importiert",
       "importFailed": "Der @:appName Dateienordner-Import ist fehlgeschlagen",
-      "importGuide": "Für weitere Details, bitte das verlinkte Dokument prüfen"
+      "importGuide": "Für weitere Details, bitte das verlinkte Dokument prüfen",
+      "supabaseSetting": "Supabase Einstellungen",
+      "cloudSetting": "Cloud Einstellungen"
     },
     "notifications": {
       "enableNotifications": {
@@ -1782,7 +1793,8 @@
       "groupByDate": "Nach Datum groupieren",
       "showUnreadsOnly": "Nur ungelesen zeigen",
       "resetToDefault": "Zurücksetzen"
-    }
+    },
+    "empty": "Leer"
   },
   "reminderNotification": {
     "title": "Erinnerung",
@@ -2067,6 +2079,8 @@
     "upgrade": "Update",
     "upgradeYourSpace": "Mehrere Domänen erstellen",
     "quicklySwitch": "Schnell zur nächsten Domäne wechseln",
-    "duplicate": "Domäne duplizieren"
+    "duplicate": "Domäne duplizieren",
+    "movePageToSpace": "Seite in Raum verschieben",
+    "switchSpace": "Raum wechseln"
   }
 }
